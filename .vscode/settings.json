@@ -41,6 +41,7 @@
         "EXP-10(D).C": "cpp",
         "EXP-11(A).C": "cpp",
         "EXP-11(B).C": "cpp",
-        "EXP-11(C).C": "cpp"
+        "EXP-11(C).C": "cpp",
+        "EXP-11(D).C": "cpp"
     }
 }
